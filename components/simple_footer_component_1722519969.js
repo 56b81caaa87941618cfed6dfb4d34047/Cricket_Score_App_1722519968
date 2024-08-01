@@ -17,6 +17,12 @@ Vue.component("simple_footer_component_1722519969", {
                     <div id="footer-text" class="flex-1 block text-lg text-center text-pink-100">
                         Stay updated with live cricket scores, news, and stats from around the world. Download our app today!
                     </div>
+                    </div>
+                </div>
+                <div class="flex justify-center mt-6">
+                    <button class="px-6 py-3 text-white bg-pink-500 rounded-lg shadow-md hover:bg-pink-600 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-opacity-50">
+                        Download App
+                    </button>
                 </div>
             </div>
         </footer> 
