@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the button be positioned within the app?\", \"option1\": \"Below the scoreboard\", \"option2\": \"At the top of the screen near the app title\"}, {\"question 2\": \"What function do you want the button to perform?\", \"option1\": \"Refresh the scores\", \"option2\": \"Navigate to a detailed scorecard\"}], \"input_token_count\": 290, \"output_token_count\": 86, \"time_taken\": \"0:00:03.361735\"}",
+        "message_id": "guest01082024154413",
+        "timestamp": "01082024154419",
+        "component_file_name": "simple_footer_component_1722519969",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged. Working on adding a button.",
         "message_id": "guest01082024154413",
