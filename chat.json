@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a two button",
+        "message_id": "guest01082024154927",
+        "timestamp": "01082024154927",
+        "component_file_name": "simple_footer_component_1722519969",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive live score updates\", \"checked\": true}, {\"feature\": \"Match highlights section\", \"checked\": false}, {\"feature\": \"Player performance statistics\", \"checked\": false}, {\"feature\": \"Upcoming matches schedule\", \"checked\": true}, {\"feature\": \"Social sharing option\", \"checked\": false}, {\"feature\": \"User commentary section\", \"checked\": true}], \"input_token_count\": 288, \"output_token_count\": 93, \"time_taken\": \"0:00:05.283174\"}",
         "message_id": "guest01082024154839",
