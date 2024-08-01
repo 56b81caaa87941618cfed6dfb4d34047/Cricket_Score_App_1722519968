@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722519969",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, working on adding a button.",
-        "timestamp": "01082024154248",
-        "message_id": "guest01082024154245"
-    },
-    {
-        "role": "user",
-        "content": "add a button",
-        "timestamp": "01082024154413",
-        "message_id": "guest01082024154413"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Acknowledged. Working on adding a button.",
-        "timestamp": "01082024154415",
-        "message_id": "guest01082024154413"
-    },
-    {
         "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the button be positioned within the app?\", \"option1\": \"Below the scoreboard\", \"option2\": \"At the top of the screen near the app title\"}, {\"question 2\": \"What function do you want the button to perform?\", \"option1\": \"Refresh the scores\", \"option2\": \"Navigate to a detailed scorecard\"}], \"input_token_count\": 290, \"output_token_count\": 86, \"time_taken\": \"0:00:03.361735\"}",
-        "timestamp": "01082024154419",
-        "message_id": "guest01082024154413"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a dark/light mode toggle button\", \"checked\": true}, {\"feature\": \"Add a refresh button to update scores in real-time\", \"checked\": true}, {\"feature\": \"Add personalized notification settings for favorite teams\", \"checked\": false}, {\"feature\": \"Incorporate voice commands for hands-free navigation\", \"checked\": false}, {\"feature\": \"Add an option to share scores on social media directly from the app\", \"checked\": true}, {\"feature\": \"Implement a 'Match Highlights' section for quick score updates\", \"checked\": false}], \"input_token_count\": 244, \"output_token_count\": 130, \"time_taken\": \"0:00:05.606060\"}",
-        "timestamp": "01082024154421",
-        "message_id": "guest01082024154413"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Alright, I'll add the button for you.",
-        "timestamp": "01082024154631",
-        "message_id": "guest01082024154629"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Thanks for your message. Can you please give more details?",
-        "timestamp": "01082024154802",
-        "message_id": "guest01082024154800"
-    },
-    {
-        "role": "user",
-        "content": "add a button",
-        "timestamp": "01082024154839",
-        "message_id": "guest01082024154839"
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the button be located within the app interface?\", \"option1\": \"In the main scoreboard area\", \"option2\": \"In the match details section\"}, {\"question 2\": \"What action should the button perform?\", \"option1\": \"Refresh the cricket scores\", \"option2\": \"Display more information about a specific match\"}], \"input_token_count\": 334, \"output_token_count\": 83, \"time_taken\": \"0:00:04.064409\"}",
+        "message_id": "guest01082024154839",
+        "timestamp": "01082024154846",
+        "component_file_name": "simple_footer_component_1722519969",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Certainly, I will add a button.",
+        "message_id": "guest01082024154839",
         "timestamp": "01082024154841",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button",
+        "message_id": "guest01082024154839",
+        "timestamp": "01082024154839",
+        "component_file_name": "simple_footer_component_1722519969",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Thanks for your message. Can you please give more details?",
+        "message_id": "guest01082024154800",
+        "timestamp": "01082024154802",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll add the button for you.",
+        "message_id": "guest01082024154629",
+        "timestamp": "01082024154631",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a dark/light mode toggle button\", \"checked\": true}, {\"feature\": \"Add a refresh button to update scores in real-time\", \"checked\": true}, {\"feature\": \"Add personalized notification settings for favorite teams\", \"checked\": false}, {\"feature\": \"Incorporate voice commands for hands-free navigation\", \"checked\": false}, {\"feature\": \"Add an option to share scores on social media directly from the app\", \"checked\": true}, {\"feature\": \"Implement a 'Match Highlights' section for quick score updates\", \"checked\": false}], \"input_token_count\": 244, \"output_token_count\": 130, \"time_taken\": \"0:00:05.606060\"}",
+        "message_id": "guest01082024154413",
+        "timestamp": "01082024154421",
+        "component_file_name": "simple_footer_component_1722519969",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the button be positioned within the app?\", \"option1\": \"Below the scoreboard\", \"option2\": \"At the top of the screen near the app title\"}, {\"question 2\": \"What function do you want the button to perform?\", \"option1\": \"Refresh the scores\", \"option2\": \"Navigate to a detailed scorecard\"}], \"input_token_count\": 290, \"output_token_count\": 86, \"time_taken\": \"0:00:03.361735\"}",
+        "message_id": "guest01082024154413",
+        "timestamp": "01082024154419",
+        "component_file_name": "simple_footer_component_1722519969",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged. Working on adding a button.",
+        "message_id": "guest01082024154413",
+        "timestamp": "01082024154415",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button",
+        "message_id": "guest01082024154413",
+        "timestamp": "01082024154413",
+        "component_file_name": "simple_footer_component_1722519969",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, working on adding a button.",
+        "message_id": "guest01082024154245",
+        "timestamp": "01082024154248",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "01082024154846",
         "message_id": "guest01082024154839"
     }
 ]
