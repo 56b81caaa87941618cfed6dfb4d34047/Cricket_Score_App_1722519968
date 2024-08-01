@@ -24,6 +24,11 @@ Vue.component("simple_footer_component_1722519969", {
                         Download App
                     </button>
                 </div>
+                <div class="flex justify-center mt-6">
+                    <button class="px-6 py-3 text-white bg-pink-500 rounded-lg shadow-md hover:bg-pink-600 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-opacity-50">
+                        New Button
+                    </button>
+                </div>
             </div>
         </footer> 
     `,
