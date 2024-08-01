@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the button be positioned within the app?\", \"option1\": \"Below the scoreboard\", \"option2\": \"At the top of the screen near the app title\"}, {\"question 2\": \"What function do you want the button to perform?\", \"option1\": \"Refresh the scores\", \"option2\": \"Navigate to a detailed scorecard\"}], \"input_token_count\": 290, \"output_token_count\": 86, \"time_taken\": \"0:00:03.361735\"}",
         "timestamp": "01082024154419",
         "message_id": "guest01082024154413"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a dark/light mode toggle button\", \"checked\": true}, {\"feature\": \"Add a refresh button to update scores in real-time\", \"checked\": true}, {\"feature\": \"Add personalized notification settings for favorite teams\", \"checked\": false}, {\"feature\": \"Incorporate voice commands for hands-free navigation\", \"checked\": false}, {\"feature\": \"Add an option to share scores on social media directly from the app\", \"checked\": true}, {\"feature\": \"Implement a 'Match Highlights' section for quick score updates\", \"checked\": false}], \"input_token_count\": 244, \"output_token_count\": 130, \"time_taken\": \"0:00:05.606060\"}",
+        "timestamp": "01082024154421",
+        "message_id": "guest01082024154413"
     }
 ]
