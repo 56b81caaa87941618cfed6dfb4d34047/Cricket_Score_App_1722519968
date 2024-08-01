@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive live score updates\", \"checked\": true}, {\"feature\": \"Match highlights section\", \"checked\": false}, {\"feature\": \"Player performance statistics\", \"checked\": false}, {\"feature\": \"Upcoming matches schedule\", \"checked\": true}, {\"feature\": \"Social sharing option\", \"checked\": false}, {\"feature\": \"User commentary section\", \"checked\": true}], \"input_token_count\": 288, \"output_token_count\": 93, \"time_taken\": \"0:00:05.283174\"}",
+        "message_id": "guest01082024154839",
+        "timestamp": "01082024154847",
+        "component_file_name": "simple_footer_component_1722519969",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the button be located within the app interface?\", \"option1\": \"In the main scoreboard area\", \"option2\": \"In the match details section\"}, {\"question 2\": \"What action should the button perform?\", \"option1\": \"Refresh the cricket scores\", \"option2\": \"Display more information about a specific match\"}], \"input_token_count\": 334, \"output_token_count\": 83, \"time_taken\": \"0:00:04.064409\"}",
         "message_id": "guest01082024154839",
