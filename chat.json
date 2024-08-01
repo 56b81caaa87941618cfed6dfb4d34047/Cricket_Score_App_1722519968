@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What function would you like each button to perform in the app?\", \"option1\": \"Navigate to different sections of the app\", \"option2\": \"Refresh the scores or data on the screen\"}, {\"question 2\": \"Where in the app would you like these buttons to be located?\", \"option1\": \"On the main score display screen\", \"option2\": \"In the app's menu or settings section\"}], \"input_token_count\": 255, \"output_token_count\": 99, \"time_taken\": \"0:00:03.678911\"}",
+        "message_id": "guest01082024154927",
+        "timestamp": "01082024154934",
+        "component_file_name": "simple_footer_component_1722519969",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a two button",
         "message_id": "guest01082024154927",
