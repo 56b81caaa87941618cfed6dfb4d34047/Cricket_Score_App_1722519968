@@ -4,7 +4,7 @@
 */
 Vue.component("simple_hero_component_1722519969", {
     template: `
-        <section id="hero-section" class="bg-gradient-to-br from-pink-400 via-purple-500 to-indigo-600 flex-1 min-h-screen flex items-center justify-center">
+        <section id="hero-section" style="min-height: 390px" class="bg-gradient-to-br from-pink-400 via-purple-500 to-indigo-600 flex-1 min-h-screen flex items-center justify-center">
             <div id="hero-container" class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28 backdrop-blur-lg bg-white/10 rounded-3xl shadow-2xl">
                 <div id="hero-text-container" class="mr-auto place-self-center lg:col-span-7 p-8">
                     
@@ -28,7 +28,7 @@ Vue.component("simple_hero_component_1722519969", {
                     
                 </div>
                 <div id="hero-image-container" class="hidden lg:mt-0 lg:col-span-5 lg:flex items-center justify-center">
-                    <img id="hero-image" src="./images/hero.png" alt="hero image" class="max-w-full h-auto rounded-2xl shadow-lg transform hover:scale-105 transition duration-300">
+                    <img id="hero-image" src="https://makeinfinite-mentat-test.azurewebsites.net/get_image/tmpf1jctqk8/hero.png" alt="hero image" class="max-w-full h-auto rounded-2xl shadow-lg transform hover:scale-105 transition duration-300">
                 </div>
             </div>
         </section>            
