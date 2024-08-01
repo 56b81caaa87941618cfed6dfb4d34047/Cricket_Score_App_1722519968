@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button",
+        "message_id": "guest01082024154413",
+        "timestamp": "01082024154413",
+        "component_file_name": "simple_footer_component_1722519969",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, working on adding a button.",
         "message_id": "guest01082024154245",
