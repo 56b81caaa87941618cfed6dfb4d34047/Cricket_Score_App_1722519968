@@ -12,5 +12,11 @@
         "content": "Got it, working on adding a button.",
         "timestamp": "01082024154248",
         "message_id": "guest01082024154245"
+    },
+    {
+        "role": "user",
+        "content": "add a button",
+        "timestamp": "01082024154413",
+        "message_id": "guest01082024154413"
     }
 ]
