@@ -1,6 +1,15 @@
 [
     {
         "role": "chat_acknowledge",
+        "content": "Thanks for your message. Can you please give more details?",
+        "message_id": "guest01082024154800",
+        "timestamp": "01082024154802",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
         "content": "Alright, I'll add the button for you.",
         "message_id": "guest01082024154629",
         "timestamp": "01082024154631",
